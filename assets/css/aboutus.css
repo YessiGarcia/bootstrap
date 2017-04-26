@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+}
+
+.aboutUsImg {
+  width: 300px;
+}
+
+.containerDescriptionValue {
+  display: inline-block;
+  position: relative;
+  width: 30%;
+  margin: 150px auto;
+}
+
+.containerDescriptionValue p, .containerDescriptionValue h3 {
+  padding: 20px;
+  text-align: center;
+}
+
+.containerDescriptions {
+  width: 95%;
+  margin: 0 auto;
+}
