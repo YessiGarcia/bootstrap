@@ -1,0 +1,36 @@
+
+#buildtwith{
+  position: absolute;
+  text-align: center;
+ }
+.contenedorImagenes{
+  margin:0% 10%;
+  position: relative;
+  display: block;
+  width: 100%;
+}
+.imagenesBuild{
+   width:20%;
+   display:inline-block;
+   right:0%;
+   position:relative;
+}
+
+.paragraphB{
+  font-family:sans-serif;
+}
+.subtitleB{
+  font-family:sans-serif;
+}
+.botonExploreB{
+  border: solid black 1px;
+  border-radius: 10%;
+  display: inline-block;
+  text-decoration:none;
+  color: black;
+}
+hr{
+  display:inline-block;
+    width: 100px;
+    margin: 40px auto;
+};
